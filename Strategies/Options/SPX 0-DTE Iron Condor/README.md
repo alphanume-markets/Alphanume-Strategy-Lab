@@ -111,8 +111,8 @@ This strategy directory contains both a research backtest and a production-style
 options/
   SPX 0-DTE Iron Condor/
     README.md
-    alphanume_iron_condor_backtest.py
-    alphanume_iron_condor_production.py
+    alphanume-iron-condor-backtest.py
+    alphanume-iron-condor-production.py
 ```
 
 - **Backtest script** demonstrates the full research workflow and historical evaluation.
